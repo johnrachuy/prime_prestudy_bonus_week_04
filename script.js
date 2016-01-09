@@ -6,4 +6,4 @@ function Splinter (x,y) {
       return myArray;
 }
 
-console.log(Splinter(5,10));
+console.log(Splinter(1,2));
