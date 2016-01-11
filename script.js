@@ -1,4 +1,4 @@
-function Splinter (x,y) {
+function splinter (x,y) {
 
     var z = x * y;
 
@@ -6,4 +6,4 @@ function Splinter (x,y) {
       return myArray;
 }
 
-console.log(Splinter(1,2));
+console.log(splinter(1,2));
